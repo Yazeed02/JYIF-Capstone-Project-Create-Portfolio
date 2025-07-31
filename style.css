@@ -1,6 +1,7 @@
 body {
   background-color: #000;
   color: #ccc;
+  margin: 0 10px;
   scroll-behavior: smooth;
 }
 
